@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+htm，body{ margin:0;
+     padding:0;}
+#zero{width:1000px;
+      margin:auto;}
+.one{width:1020px;
+	border:1px solid #CCC;}	 
+.one a{padding:80px;
+	   text-decoration:none;
+	   color:black;}
+.one a:hover{color:#3CF;}	   
+.two{width:1000px;
+	padding:10px;
+	 clear:both;
+	 border:1px solid #CCC;}
+.two a{font-family:"幼圆";
+	   float:left;
+	   padding:10px;
+	   position:relative;
+	   left:50px;
+	   bottom:50px;
+	   text-decoration:none;
+	   color:black;}
+.two a:hover{color:#3CF;}	   
+.twopointzero{border:1px solid #CCC;
+              width:1020px;}
+			  	   
+.three img{ margin:13px;}	        
+.three img:first-child{position:relative;
+                right:100px;}
+.three p{font-family:"楷体";
+         font-size:22px;}
+.three a{text-decoration:none;
+         color:#000;}		 					   	       
+.three a:hover{color:#3CF;}
+
+.four img{ margin:13px;}	        
+.four img:first-child{position:relative;
+                left:60px;}
+.four p{font-family:"楷体";
+         font-size:22px;}
+.four a{text-decoration:none;
+         color:#000;}		 					   	       
+.four a:hover{color:#3CF;}
+
+.five img{ margin:13px;}	        
+.five img:first-child{position:relative;
+                left:60px;}
+.five p{font-family:"楷体";
+         font-size:22px;}
+.five a{text-decoration:none;
+         color:#000;}		 					   	       
+.five a:hover{color:#3CF;}	
+

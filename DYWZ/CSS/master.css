@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+htm，body{ margin:0;
+     padding:0;}
+#zero{ width:1000px;
+       margin:auto;}
+	
+.one{width:1000px;
+     border:1px solid #CCC;}
+input{ width: 150px;
+        background-image:url(../IMG/%E6%98%9F%E6%98%9F.jpg);
+        background-repeat:repeat;
+        background-size: 25px;
+        background-position:5px center;
+        padding:0 0 0 40px;
+		position:relative;
+		left:60%;}	
+.search{width: 78px;
+        height: 25px;
+        float: right;
+		background:url(../IMG/%E9%87%91%E8%89%B2%E4%BA%94%E8%A7%92%E6%98%9F.jpg);
+        color:white;
+        text-align: center;
+		line-height:25px;
+        cursor: pointer;
+		position:relative;
+		right:13%;}	
+	
+.two{width:1000px;
+     border:1px solid #CCC;
+	 background:#366;}
+.two a{display:block;
+	   float:left;
+	   padding:80px;
+	   text-decoration:none;
+	   color:black;}
+.two a:hover{color:#3CF;}	   	
+	      
+.three{width:1000px;
+       border:1px solid #CCC;
+       clear:both;}
+.three a{padding:6px;}	
+
+.four{width:1000px;
+       border:1px solid #CCC;}
+hr{width:200px;}	   
+h2{ padding:10px;
+    clear:both;}
+.four img {padding:6px;}		
+.four p{padding:10px;
+        text-indent:30px;
+		font-family:"幼圆";}	
+.four h2 a{ text-decoration:none;
+           color:black;}		
+.four h2 a:hover{color:#3CF;}	
+
+.five{background:#666;
+      height:90px;}
+.five a{text-decoration:none;
+        color:white;}	  
+
+.five p:first-child{color:black;
+         display:block;
+		 float:left;
+		 padding:10px;}
+.five p:nth-child(2){display:block;
+                     position:relative;
+					 left:930px;
+					 line-height:25px;}		 	   	
+	
+.box{border: 1px solid;
+     width:34px;
+	 position:fixed;
+	 right:215px;
+	 top:50%;
+	 font-family:"幼圆";
+	 color:black;}	
+
